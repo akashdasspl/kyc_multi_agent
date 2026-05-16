@@ -1,0 +1,4 @@
+user_id,expected_decision,actual_decision,result
+1,APPROVED,UNKNOWN,WRONG
+2,REJECTED,REJECTED,CORRECT
+3,REJECTED,MANUAL REVIEW,WRONG
