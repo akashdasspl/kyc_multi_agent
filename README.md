@@ -31,9 +31,7 @@ kyc-multi-agent/
 ├── kyc_performance.png       # Bar chart: aligned vs deviated decisions
 ├── kyc_confusion_matrix.png  # Confusion matrix plot
 ├── confusion_matrix.csv      # Raw confusion matrix data
-│
-└── .streamlit/
-    └── secrets.toml     # (optional) API keys — never commit this
+
 ```
 
 ---
